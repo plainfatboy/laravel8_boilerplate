@@ -1,5 +1,10 @@
 # Laravel 8 boilerplate
 
+# Stacks
+1. PHP-FPM 7.4
+2. Nginx 1.9
+3. MySQL 8
+
 # Start the services
 ``` docker-compose up -d ```
 
